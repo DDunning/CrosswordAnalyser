@@ -1,0 +1,6 @@
+WordCounter Notes
+
+The original data is an Excel xlsx file. This has been saved as a tab-delimited text file. However, strings that contain a comma in the original file are still quoted in the text file, as if it was a comma-delimited file. Only strings containing a comma are quoted.
+
+9 Mar 2019
+I created a repo on GitHub, cloned it locally and have copied the source files from the previous location to the new one.

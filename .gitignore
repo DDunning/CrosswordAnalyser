@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CrosswordAnalyser/v15
+/.vs/WordCounter/v15/Browse.VC.opendb
+/.vs/WordCounter/v15/Browse.VC.db
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/WordCounter/Debug/WordCounter.tlog/WordCounter.lastbuildstate
+/WordCounter/Debug/WordCounter.tlog/link.write.1.tlog
+/WordCounter/Debug/WordCounter.tlog/link.read.1.tlog
+/WordCounter/Debug/WordCounter.tlog/link.command.1.tlog
+/WordCounter/Debug/WordCounter.tlog/CL.write.1.tlog
+/WordCounter/Debug/WordCounter.tlog/CL.read.1.tlog
+/WordCounter/Debug/WordCounter.tlog/CL.command.1.tlog
+/WordCounter/Debug/WordCounter.pch
+/WordCounter/Debug/WordCounter.obj
+/WordCounter/Debug/WordCounter.log
+/WordCounter/Debug/vc141.pdb
+/WordCounter/Debug/vc141.idb
+/WordCounter/Debug/stdafx.obj
+/WordCounter/Debug/SheetRow.obj
+/.vs/WordCounter/v15/ipch
